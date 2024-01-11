@@ -1,4 +1,4 @@
-@import "/src/assets/styles/resource/index.scss";
+@use "/src/assets/styles/variables/index.scss" as *;
 
 .layout-component {
   $header-height: 90px;
